@@ -2,14 +2,14 @@
 
 A console-based store management system developed in **C++** that simulates a merchandise store for BTS fans.  
 The program allows users to view products, place orders, generate bills, and manage basic store operations through a menu-driven interface.
-This project was created as a **mini project** to practice core C++ concepts such as functions, conditionals, loops, and user interaction.
+This project was created as a mini-project to practice core C++ concepts, including functions, conditionals, loops, and user interaction.
 
 ---
-## 👩‍💻 Author
+# 👩‍💻 Author
 
-**Bhakti**
+Bhakti
 Second Year Computer Engineering Student
-Learnt C/C++. Learning DSA and exploring Python.
+Learnt C/C++, learning DSA and exploring Python. 
 
 ## 🛠️ Features
 
@@ -64,7 +64,4 @@ Learnt C/C++. Learning DSA and exploring Python.
    ```bash
    ./BTSstore
    ```
-
----
-
-
+ ---
