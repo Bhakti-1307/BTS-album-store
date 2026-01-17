@@ -9,7 +9,9 @@ This project was created as a mini-project to practice core C++ concepts, includ
 
 Bhakti
 Second Year Computer Engineering Student
-Learnt C/C++, learning DSA and exploring Python. 
+Learnt C/C++, learning DSA and exploring Python.
+
+---
 
 ## 🛠️ Features
 
